@@ -1,41 +1,48 @@
 {
 	"notificaciones": [
 	    {
+			"type": "warn",
 			"title": "Aviso",
 			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
 			"details": "ADIOS: Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
 			"date": "2016-10-24T10:40"
 		},
 		{
+			"type": "info",
 			"title": "INFORMACIÓN",
 			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
 			"details": "Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
 			"date": "2017-10-24T14:40"
 		},
 		{
+			"type": "info",
 			"title": "Presentación Padres S3",
 			"description": "Estimados padres: aquí tienen la presentación de la reunión de padres y alumnos de S3, que tuvo lugar el pasado jueves 28 de septiembre.",
 			"date": "2017-10-01T10:20"
 		},
 		{
+			"type": "info",
 			"title": "INFORMACIÓN2",
 			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
 			"details": "Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
 			"date": "2017-10-24T14:40"
 		},
 		{
+			"type": "warn",
 			"title": "INFORMACIÓN3",
 			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
 			"details": "Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
 			"date": "2017-10-24T14:40"
 		},
 		{
+			"type": "info",
 			"title": "INFORMACIÓN4",
 			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
 			"details": "Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
 			"date": "2017-10-24T14:40"
 		},
 		{
+			"type": "info",
 			"title": "INFORMACIÓN5",
 			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
 			"details": "Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
