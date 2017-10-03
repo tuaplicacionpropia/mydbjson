@@ -1,0 +1,42 @@
+{
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"notificaciones": [{
+			"title": "Aviso",
+			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
+			"details": "ADIOS: Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
+			"date": "2016-10-24T10:40"
+		},
+		{
+			"title": "INFORMACIÓN",
+			"description": "Los padres de alumnos del centro de San Martel deben venir a recoger a sus hijos.",
+			"details": "Se trata de una emergencia.\nLa situación está controlada.\nSe ha incendiado un edificio cercano al colegio y por precaución requerimos que vengan a recoger a los alumnos para evitar al máximo la posible inhalación de humo.",
+			"date": "2017-10-24T14:40"
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
