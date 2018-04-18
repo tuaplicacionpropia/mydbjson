@@ -1,8 +1,8 @@
 {
       "menu": [
-        { "title": "Homepage111", "target": "index.html"},
-        { "title": "Generic", "target": "generic.html"},
-        { "title": "Elements", "target": "elements.html"},
+        { "title": "INICIO", "target": "index.html"},
+        { "title": "Noticias", "target": "generic.html"},
+        { "title": "Menús", "target": "elements.html"},
 
         { "title": "Submenu", "options": [
           { "title": "Lorem Dolor", "target": "#"},
