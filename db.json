@@ -1,4 +1,69 @@
 {
+      "menu": [
+        { "title": "Homepage111", "target": "index.html"},
+        { "title": "Generic", "target": "generic.html"},
+        { "title": "Elements", "target": "elements.html"},
+
+        { "title": "Submenu", "options": [
+          { "title": "Lorem Dolor", "target": "#"},
+          { "title": "Ipsum Adipiscing", "target": "#"},
+          { "title": "Tempus Magna", "target": "#"},
+          { "title": "Feugiat Veroeros", "target": "#"}
+        ]},
+
+        { "title": "Etiam Dolore", "target": "#"},
+        { "title": "Adipiscing", "target": "#"},
+
+        { "title": "Another Submenu", "options": [
+          { "title": "Lorem Dolor", "target": "#"},
+          { "title": "Ipsum Adipiscing", "target": "#"},
+          { "title": "Tempus Magna", "target": "#"},
+          { "title": "Feugiat Veroeros", "target": "#"}
+        ]},
+
+        { "title": "Maximus Erat", "target": "#"},
+        { "title": "Sapien Mauris", "target": "#"},
+        { "title": "Amet Lacinia", "target": "#"}
+      ],
+      "menuPosts": [
+        {
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.", 
+          "img": "images/pic07.jpg"
+        },
+        {
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.", 
+          "img": "images/pic08.jpg"
+        },
+        {
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.", 
+          "img": "images/pic09.jpg"
+        }
+      ],
+      "features": [
+        {
+          "title": "Portitor ullamcorper",
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.",
+          "icon": "diamond"
+        },
+        {
+          "title": "Sapien veroeros",
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.",
+          "icon": "paper-plane"
+        },
+        {
+          "title": "Quam lorem ipsum",
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.",
+          "icon": "rocket"
+        },
+        {
+          "title": "Sed magna finibus",
+          "resumen": "Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.",
+          "icon": "signal"
+        }
+      ],
+	
+	
+	
      "posts": [
         {
           "title": "GITHUB Interdum aenean",
