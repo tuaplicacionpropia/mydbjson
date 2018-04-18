@@ -97,7 +97,7 @@
         }
       ],
 	
-	"notificaciones": [
+      "notificaciones": [
 	    {
 			"id": "0000000001",
 			"type": "warn",
