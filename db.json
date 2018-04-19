@@ -1,6 +1,7 @@
 {
       "menu": [
         { "title": "INICIO", "target": "index.html"},
+        { "title": "Mis mensajes", "target": "#"},
         { "title": "Noticias", "target": "generic.html"},
         { "title": "Menús", "target": "elements.html"},
 
