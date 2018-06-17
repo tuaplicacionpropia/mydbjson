@@ -16,6 +16,26 @@ posts:
   science/science1
 ]
 
+tags:
+[
+  linux:
+  {
+    label: Linux
+  },
+  java:
+  {
+    label: Java
+  },
+  python:
+  {
+    label: Python
+  },
+  games:
+  {
+    label: Juegos
+  },
+]
+
 options: 
 [
   {
