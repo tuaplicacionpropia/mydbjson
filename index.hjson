@@ -142,6 +142,10 @@ quickLinks: [
     label: Linux
     url: https://linux.zeef.com/paul.reiber
   }
+  {
+    label: Game Assets
+    url: https://game-assets.zeef.com/andre.antonio.schmitz
+  }
 ]
 
 // Live demo.
