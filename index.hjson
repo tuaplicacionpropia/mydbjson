@@ -18,25 +18,20 @@ posts:
   science/science1
 ]
 
-tags:
-[
-  linux:
-  {
+tags: {
+  linux: {
     label: Linux
-  },
-  java:
-  {
+  }
+  java: {
     label: Java
-  },
-  python:
-  {
+  }
+  python: {
     label: Python
-  },
-  games:
-  {
+  }
+  games: {
     label: Juegos
-  },
-]
+  }
+}
 
 options: 
 [
